@@ -9,6 +9,11 @@ Curated resources for stduying AI agents.
 * https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
 
 ## Frameworks
+* https://github.com/huggingface/smolagents
+
+## Quick Guides and Turorials
+* https://medium.com/design-bootcamp/comprehensive-guide-to-ai-agents-in-2025-683651f8d2e6
+* https://medium.com/@harshnpathak/mastering-ai-agent-planning-a-comprehensive-guide-912c96424cca
 
 ## Related Lists
 * https://www.reddit.com/r/singularity/comments/1hvrjfx/what_courses_or_resources_can_help_me_create_ai/
