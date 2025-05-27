@@ -1,5 +1,7 @@
 # Awesome AI Agents Learning
 
+![](logo.png)
+
 Curated resources for stduying AI agents.
 
 ## Courses
