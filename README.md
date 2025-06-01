@@ -4,7 +4,8 @@
 A curated list of resources for stduying AI agents updated regularly to help you understand, build, and evaluate autonomous AI agents.
 
 ## Foundational Courses
-- **[Hugging Face's AI Agents Course](https://huggingface.co/learn/agents-course/)** — 
+* **[CS294/194-196 LLM Agents](https://rdi.berkeley.edu/llm-agents/)** 
+- **[Hugging Face's AI Agents Course](https://huggingface.co/learn/agents-course/)** — a hands-on program designed to guide from foundational agents concepts to deploying autonomous AI agents. Covers agent foundamentals as well as practical implementation using different popular frameworks (smolagents, LlamaIndex, LangGraph). Includes assignments and a final project with building, deploying and evaluating your own agent.
 - **[Microsoft's AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)**
 * https://www.coursera.org/learn/agentic-ai, https://www.coursera.org/learn/learn-ai-agents 
 * **[Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)**   
@@ -18,6 +19,8 @@ A curated list of resources for stduying AI agents updated regularly to help you
 ## Frameworks & SDKs 
 * https://www.langchain.com/langgraph
 * https://github.com/huggingface/smolagents
+* https://github.com/langchain-ai/langgraph
+* https://github.com/run-llama/llama_index
 * https://github.com/openai/swarm
 * https://www.microsoft.com/en-us/research/project/autogen/
 
