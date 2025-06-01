@@ -12,10 +12,11 @@ Semantic Kernel, AutoGen).
 - **[Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)** — a beginner-friendly course teaching how to build and deploy AI agents using CrewAI framework. Covers basic concepts including tools management, memory organization, errors handling, agent cooperation. Introduces a lot of AI agent examples for common business processes.
 
 ## Conceptual Guides
+* **[A Practical Guide to Building Agents (OpenAI)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)** — a step-by-step playbook offering best practices for designing autonomous AI agents. It covers identifying suitable problems, agent architecture, and measuring success.
+* **[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)** — an academic survey that systematically examines the construction, applications, and evaluation of LLM-based autonomous agents. The work also discusses evaluation strategies and outlines future research directions.
+* **[Building effective agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — an in-depth guide by Anthropic offering practical strategies for designing LLM-based agents. Emphasizes starting with simple, composable patterns—like prompt chaining and routing—before progressing to more autonomous, tool-using agents.
 * **[LLM Powered Autonomous Agents (Lilian Weng)](https://lilianweng.github.io/posts/2023-06-23-agent/)** — a comprehensive blog post exploring the architecture of autonomous LLM agents. The article covers theory and implementation of LLM agents components and their internals.
 * **[What Are AI Agents?](https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3)** — an article that introduces AI agents and provides a step-by-step guide to building one. The article offers a practical walkthrough of building such agents with the focus on business architecture, the implementation is left to the readers.
-* https://medium.com/design-bootcamp/comprehensive-guide-to-ai-agents-in-2025-683651f8d2e6
-* https://medium.com/@harshnpathak/mastering-ai-agent-planning-a-comprehensive-guide-912c96424cca
 
 ## Framework Turorials
 
@@ -29,8 +30,7 @@ Semantic Kernel, AutoGen).
 * **[OpenAI Agents SDK Examples](https://openai.github.io/openai-agents-python/examples/)** — a comprehensive collection of practical examples demonstrating how to build AI agents. Organized into categories like agent patterns, tool integration, model providers, and real-world applications, providing examples for common design patterns, tool usage, and multi-turn orchestration.
 * **[OpenAI Assistants API](https://platform.openai.com/docs/assistants/quickstart)** — a step-by-step tutorial on building AI assistants using OpenAI's Assistants API. It covers creating assistants with specific instructions, integrating tools like code execution and file search, and managing conversations.
 
-## Related Lists
-* https://www.reddit.com/r/singularity/comments/1hvrjfx/what_courses_or_resources_can_help_me_create_ai/
-* https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1
-* https://github.com/e2b-dev/awesome-ai-agents
-* https://github.com/Jenqyang/Awesome-AI-Agents
+## Related Resources
+
+* **[Mastering AI Agents: The 10 Best Free Courses, Tutorials & Learning Tools](https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1)** — a curated list of resources on AI Agents learning organized by skill level.
+* **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** — a curated GitHub repository featuring a comprehensive list of AI autonomous agents and frameworks.
