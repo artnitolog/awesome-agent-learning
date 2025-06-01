@@ -3,18 +3,25 @@
 
 A curated list of resources for stduying AI agents updated regularly to help you understand, build, and evaluate autonomous AI agents.
 
-## Courses
-* https://github.com/microsoft/ai-agents-for-beginners
-* https://huggingface.co/learn/agents-course/
+## Foundational Courses
+- **[Hugging Face's AI Agents Course](https://huggingface.co/learn/agents-course/)** — 
+- **[Microsoft's AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)**
 * https://www.coursera.org/learn/agentic-ai, https://www.coursera.org/learn/learn-ai-agents 
-* https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
+* **[Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)**   
 
-## Frameworks
-* https://github.com/huggingface/smolagents
-
-## Quick Guides and Turorials
+## Quick-Start Guides
+* https://lilianweng.github.io/posts/2023-06-23-agent/
+* https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3
 * https://medium.com/design-bootcamp/comprehensive-guide-to-ai-agents-in-2025-683651f8d2e6
 * https://medium.com/@harshnpathak/mastering-ai-agent-planning-a-comprehensive-guide-912c96424cca
+
+## Frameworks & SDKs 
+* https://www.langchain.com/langgraph
+* https://github.com/huggingface/smolagents
+* https://github.com/openai/swarm
+* https://www.microsoft.com/en-us/research/project/autogen/
+
+## Evaluation & Benchmarks
 
 ## Related Lists
 * https://www.reddit.com/r/singularity/comments/1hvrjfx/what_courses_or_resources_can_help_me_create_ai/
