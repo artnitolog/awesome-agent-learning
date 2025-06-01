@@ -1,8 +1,7 @@
-# Awesome AI Agents Learning
+# Learn AI Agents
+![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/artnitolog/learn-ai-agents)
 
-![](logo.png)
-
-Curated resources for stduying AI agents.
+A curated list of resources for stduying AI agents updated regularly to help you understand, build, and evaluate autonomous AI agents.
 
 ## Courses
 * https://github.com/microsoft/ai-agents-for-beginners
