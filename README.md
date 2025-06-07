@@ -1,5 +1,5 @@
 # Learn AI Agents
-![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/artnitolog/learn-ai-agents)
+![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/artnitolog/learn-ai-agents) [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/artnitolog/learn-ai-agents/pulls) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources for studying AI agents updated regularly to help you understand, build, and evaluate autonomous AI agents.
 
