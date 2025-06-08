@@ -1,5 +1,5 @@
 # Awesome Agent Learning
-![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/artnitolog/learn-ai-agents) [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/artnitolog/learn-ai-agents/pulls) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/artnitolog/awesome-agent-learning) [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/artnitolog/awesome-agent-learning/pulls) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img src="assets/ai-agent-learning.png" width="70%" alt="AI agents list image" />
