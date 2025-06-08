@@ -13,6 +13,7 @@ A curated collection of resources for studying AI agents updated regularly to he
 - [Foundational Courses](#foundational-courses)
 - [Conceptual Guides](#conceptual-guides)
 - [Framework Tutorials](#framework-tutorials)
+- [Evaluation Benchmarks](#evaluation-benchmarks)
 - [Related Resources](#related-resources)
 
 ## Foundational Courses
@@ -44,6 +45,10 @@ Semantic Kernel, AutoGen).
 - **[Microsoft AutoGen AgentChat Quickstart & Tutorial](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html)** — a quick tutorial guiding through building an AI assistant using Microsoft's AutoGen AgentChat framework.
 - **[OpenAI Agents SDK Examples](https://openai.github.io/openai-agents-python/examples/)** — a comprehensive collection of practical examples demonstrating how to build AI agents. Organized into categories like agent patterns, tool integration, model providers, and real-world applications, providing examples for common design patterns, tool usage, and multi-turn orchestration.
 - **[OpenAI Assistants API](https://platform.openai.com/docs/assistants/quickstart)** — a step-by-step tutorial on building AI assistants using OpenAI's Assistants API. It covers creating assistants with specific instructions, integrating tools like code execution and file search, and managing conversations.
+
+## Evaluation Benchmarks
+
+- **[AgentBench](https://github.com/THUDM/AgentBench)** — a systematic multi-domain benchmark for measuring LLMs in autonomous agent roles, spanning 8 tasks (including OS management, SQL ops, web browsing/shopping, games, puzzles). Introduced a leaderboard for reproducible comparison.
 
 ## Related Resources
 
