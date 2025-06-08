@@ -49,6 +49,12 @@ Semantic Kernel, AutoGen).
 ## Evaluation Benchmarks
 
 - **[AgentBench](https://github.com/THUDM/AgentBench)** — a systematic multi-domain benchmark for measuring LLMs in autonomous agent roles, spanning 8 tasks (including OS management, SQL ops, web browsing/shopping, games, puzzles). Introduced a leaderboard for reproducible comparison.
+- **[BrowseComp](https://openai.com/index/browsecomp/)** — a benchmark featuring 1200+ human-crafted questions designed to assess agents ability to find hard-to-locate information across the web.
+- **[GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard)** — a 450-question benchmark that tests an agent's reasoning, web search, tool-use and multimodal understanding through short-answer tasks split into 3 difficulty levels.
+- **[OSWorld](https://github.com/xlang-ai/OSWorld)** — a benchmark for evaluating multimodal agents on 350+ real web- and desktop-tasks, including UI/GUI manipulations, and graded only by execution traces.
+- **[SWE-bench](https://github.com/SWE-bench/SWE-bench)** — a large-scale benchmark of 2k+ real-world github issues from Python repositories, where LLM agents must generate patches and pass tests, all inside a docker environment fully reproducible evaluation. Includes multiple extra versions: Lite with easy tasks, Verified with hand-validated issues, and Multimodal.
+- **[ToolBench](https://github.com/sambanova/toolbench)** — an 8-task benchmark that asks agents to call real APIs from different web services, including weather, spreadsheets, shopping, reservations, and virtual environments.
+- **[WebArena](https://webarena.dev/)** — a realistic, self-hosted benchmark environment comprising 4 web applications: e‑commerce, forums, CMS, code — 800+ long-horizon tasks.
 
 ## Related Resources
 
