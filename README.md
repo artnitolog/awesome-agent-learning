@@ -39,6 +39,7 @@ Semantic Kernel, AutoGen).
 
 - **[AutoGPT Guide](https://docs.agpt.co/platform/getting-started/)** — a step-by-step tutorial for setting up the full AutoGPT platform locally. Covering both backend and frontend configurations, enabling developers to build and manage AI agents.
 - **[CrewAI Quickstart Guide](https://docs.crewai.com/quickstart)** — a hands-on tutorial walking through building a multi-agent system using CrewAI framework. It demonstrates how to define different agent roles, assign tasks and orchestrate their collaboration.
+- **[GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)** - 50+ hands-on tutorials and implementations for building Generative AI agents, from simple bots to complex multi-agent systems, each a runnable notebook.
 - **[Haystack Tutorials](https://haystack.deepset.ai/tutorials)** — a collection of Haystack tutorials covering building, evaluating and deploying agentic pipelines.
 - **[Hugging Face smolagents Tutorials](https://huggingface.co/docs/smolagents/tutorials/building_good_agents)** — examples that outline best practices for building AI agents using smolagents framework.
 - **[LangChain: Build an Agent](https://python.langchain.com/docs/tutorials/agents/)** — a hands-on guide by Microsoft that demonstrates how to build an AI assistant capable of tool use with minimal setup.
