@@ -59,6 +59,7 @@ Semantic Kernel, AutoGen).
 
 ## Related Resources
 
+- **[DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook)** — an Agent-first, source-backed field guide to running, debugging, evaluating, and extending the DeepSeek Harness runtime, with multilingual navigation and a curated ecosystem map.
 - **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** — a curated GitHub repository featuring a comprehensive list of AI autonomous agents and frameworks.
 - **[Mastering AI Agents: The 10 Best Free Courses, Tutorials & Learning Tools](https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1)** — a curated list of resources on AI Agents learning organized by skill level.
 
