@@ -30,6 +30,7 @@ Semantic Kernel, AutoGen).
 ## Conceptual Guides
 
 - **[A Practical Guide to Building Agents (OpenAI)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)** — a step-by-step playbook offering best practices for designing autonomous AI agents. It covers identifying suitable problems, agent architecture, and measuring success.
+- **[AI Agent API Integration](https://servicesground.com/blog/ai-agent-api-integration/)** — A practical guide to permissions, uncertain writes and retries, with a small offline Python simulation and acceptance cases.
 - **[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)** — an academic survey that systematically examines the construction, applications, and evaluation of LLM-based autonomous agents. The work also discusses evaluation strategies and outlines future research directions.
 - **[Building effective agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — an in-depth guide by Anthropic offering practical strategies for designing LLM-based agents. Emphasizes starting with simple, composable patterns—like prompt chaining and routing—before progressing to more autonomous, tool-using agents.
 - **[LLM Powered Autonomous Agents (Lilian Weng)](https://lilianweng.github.io/posts/2023-06-23-agent/)** — a comprehensive blog post exploring the architecture of autonomous LLM agents. The article covers theory and implementation of LLM agents components and their internals.
