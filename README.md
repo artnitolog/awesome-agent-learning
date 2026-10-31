@@ -37,6 +37,7 @@ Semantic Kernel, AutoGen).
 
 ## Framework Tutorials
 
+- **[agent-qa Coding Agents Guide](https://vostride.com/docs/agent-qa/coding-agents)** — shows how to connect coding assistants to vostride’s web/mobile QA agent via MCP and workflow skills, with recorded evidence, persistent memidex memory, and validated self-improvement.
 - **[AutoGPT Guide](https://docs.agpt.co/platform/getting-started/)** — a step-by-step tutorial for setting up the full AutoGPT platform locally. Covering both backend and frontend configurations, enabling developers to build and manage AI agents.
 - **[CrewAI Quickstart Guide](https://docs.crewai.com/quickstart)** — a hands-on tutorial walking through building a multi-agent system using CrewAI framework. It demonstrates how to define different agent roles, assign tasks and orchestrate their collaboration.
 - **[Haystack Tutorials](https://haystack.deepset.ai/tutorials)** — a collection of Haystack tutorials covering building, evaluating and deploying agentic pipelines.
